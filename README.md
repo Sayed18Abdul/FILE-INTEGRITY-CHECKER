@@ -48,4 +48,5 @@ The tool operates efficiently by focusing only on files whose hashes have change
 
 4.Backup Solutions: To verify the integrity of backup files by comparing their hashes against known good versions.
 # OUTPUT
-![Image](https://github.com/user-attachments/assets/756688e0-d933-43ef-9955-402aad4c015f)
+![Image](![Screenshot 2025-07-06 103336](https://github.com/user-attachments/assets/5dc54aae-5bef-439d-9fd9-648bdcfbac00)
+)
